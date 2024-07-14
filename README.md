@@ -1,16 +1,23 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+A simple weather application built using the Flutter framework. This app fetches weather data from the [WeatherAPI](https://www.weatherapi.com/) and uses Cubit for state management.
+
+## Features
+
+- Displays current weather information
+- Shows weather forecast for upcoming days
+- Provides weather details such as temperature, humidity, wind speed, etc.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/install) installed
+- An API key from [WeatherAPI](https://www.weatherapi.com/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Installation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
